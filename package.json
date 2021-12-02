@@ -1,0 +1,27 @@
+{
+  "name": "cfa",
+  "version": "1.0.0",
+  "description": "Code farmer assistant, Life extender.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porkio/CFA.git"
+  },
+  "keywords": [
+    "Life",
+    "extender",
+    "Code",
+    "farmer",
+    "assistant",
+    "Nodejs"
+  ],
+  "author": "IOLSP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/porkio/CFA/issues"
+  },
+  "homepage": "https://github.com/porkio/CFA#readme"
+}
